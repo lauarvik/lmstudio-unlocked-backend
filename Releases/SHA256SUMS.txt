@@ -1,0 +1,8 @@
+# SHA-256 checksums for pre-built release binaries
+# Verify with: sha256sum -c SHA256SUMS.txt
+
+49700eb0c86558f201fbeafd622c017d81741921689605151418c709f77b288f  GPU Vulkan/llama.cpp-win-x86_64-vulkan-avx-1.59.0.zip
+495ec8af42d6f3e9715546023423473538828394a16a0d6855b125f639c66602  GPU Vulkan/llama.cpp-win-x86_64-avx-1.103.2.zip
+947ac980e2bca98f19924b81e53034da4e392952240089ca60bc5287bb0471be  CPU/llama.cpp-win-x86_64-avx-1.59.0.zip
+495ec8af42d6f3e9715546023423473538828394a16a0d6855b125f639c66602  CPU/llama.cpp-win-x86_64-avx-1.103.2.zip
+c7e176d8853b1f9d777b62b740273acaa373b20c03ed105bac30483c41ffa344  CPU/llama.cpp-win-x86_64-avx-1.48.0.7z
